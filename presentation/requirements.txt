@@ -3,3 +3,5 @@ torch
 numpy
 jupyter
 ipython
+scipy
+opencv-python
